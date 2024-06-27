@@ -9,7 +9,7 @@ CSS (Flexbox)
 
 How to View
 
-You can explore the Flexbox image gallery by visiting 
+You can explore the Flexbox image gallery by visiting https://aswin-pro.github.io/Subscription-Cards-for-Music-Page/
 
 Contributing
 
